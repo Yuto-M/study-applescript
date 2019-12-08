@@ -12,7 +12,7 @@ https://marketplace.visualstudio.com/items?itemName=idleberg.applescript
 
 ```
 "[applescript]": {
-  "files.encoding": "utf16le"
+  "files.encoding": "utf8"
 }
 ```
 
