@@ -21,5 +21,8 @@ https://marketplace.visualstudio.com/items?itemName=idleberg.applescript
 - Shift+comman+Pでvscodeのcommand-paletteを開く
 - `applescript`を入力すると、`Compile Application`が表示されるのでクリックするとアプリケーションにコンパイルされる
 
+### コード実行の仕方
+- `Shift+option+R`
+
 ### 参考
 https://qiita.com/seiya1121/items/656fd596570f9e8276bc
